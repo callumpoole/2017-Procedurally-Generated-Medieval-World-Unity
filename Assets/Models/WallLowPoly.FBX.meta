@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 8e5d84fce7d8ae3489c76666451e47e5
+timeCreated: 1493411553
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackVert
+    100002: BackVert1
+    100004: BackVert2
+    100006: BackVert3
+    100008: BackVert4
+    100010: BackVert5
+    100012: BackVert6
+    100014: BackVert7
+    100016: DiagConBar002
+    100018: DiagConBar003
+    100020: DiagConBar004
+    100022: DiagConBar005
+    100024: DiagConBar006
+    100026: DiagConBar007
+    100028: DiagConBar1
+    100030: DiagOutBar001
+    100032: DiagOutBar002
+    100034: DiagOutBar003
+    100036: DiagOutBar004
+    100038: DiagOutBar005
+    100040: DiagOutBar006
+    100042: DiagOutBar007
+    100044: FenceStrutSection019
+    100046: FenceStrutSection020
+    100048: FenceStrutSection021
+    100050: FenceStrutSection022
+    100052: FenceStrutSection023
+    100054: FenceStrutSection024
+    100056: FenceStrutSection025
+    100058: FenceStrutSection026
+    100060: FenceStrutSection027
+    100062: FenceStrutSection028
+    100064: FenceStrutSection029
+    100066: FenceStrutSection030
+    100068: FenceStrutSection031
+    100070: FenceStrutSection1
+    100072: FenceStrutSection2
+    100074: FenceStrutSection2 1
+    100076: FenceStrutSection2 10
+    100078: FenceStrutSection2 11
+    100080: FenceStrutSection2 12
+    100082: FenceStrutSection2 2
+    100084: FenceStrutSection2 3
+    100086: FenceStrutSection2 4
+    100088: FenceStrutSection2 5
+    100090: FenceStrutSection2 6
+    100092: FenceStrutSection2 7
+    100094: FenceStrutSection2 8
+    100096: FenceStrutSection2 9
+    100098: FenceStrutSection3
+    100100: FenceStrutSection3 1
+    100102: FenceStrutSection3 10
+    100104: FenceStrutSection3 11
+    100106: FenceStrutSection3 12
+    100108: FenceStrutSection3 2
+    100110: FenceStrutSection3 3
+    100112: FenceStrutSection3 4
+    100114: FenceStrutSection3 5
+    100116: FenceStrutSection3 6
+    100118: FenceStrutSection3 7
+    100120: FenceStrutSection3 8
+    100122: FenceStrutSection3 9
+    100124: FenceStrutSection4
+    100126: FloorBig
+    100128: FloorSmall
+    100130: FloorSmall2
+    100132: MiddleBar
+    100134: OverBar
+    100136: RoofSupports
+    100138: UnderBar
+    100140: UnderStrut1
+    100142: UnderStrut2
+    100144: UnderStrut3
+    100146: VBar1
+    100148: VBar2
+    100150: VBar3
+    100152: Wall
+    100154: //RootNode
+    400000: BackVert
+    400002: BackVert1
+    400004: BackVert2
+    400006: BackVert3
+    400008: BackVert4
+    400010: BackVert5
+    400012: BackVert6
+    400014: BackVert7
+    400016: DiagConBar002
+    400018: DiagConBar003
+    400020: DiagConBar004
+    400022: DiagConBar005
+    400024: DiagConBar006
+    400026: DiagConBar007
+    400028: DiagConBar1
+    400030: DiagOutBar001
+    400032: DiagOutBar002
+    400034: DiagOutBar003
+    400036: DiagOutBar004
+    400038: DiagOutBar005
+    400040: DiagOutBar006
+    400042: DiagOutBar007
+    400044: FenceStrutSection019
+    400046: FenceStrutSection020
+    400048: FenceStrutSection021
+    400050: FenceStrutSection022
+    400052: FenceStrutSection023
+    400054: FenceStrutSection024
+    400056: FenceStrutSection025
+    400058: FenceStrutSection026
+    400060: FenceStrutSection027
+    400062: FenceStrutSection028
+    400064: FenceStrutSection029
+    400066: FenceStrutSection030
+    400068: FenceStrutSection031
+    400070: FenceStrutSection1
+    400072: FenceStrutSection2
+    400074: FenceStrutSection2 1
+    400076: FenceStrutSection2 10
+    400078: FenceStrutSection2 11
+    400080: FenceStrutSection2 12
+    400082: FenceStrutSection2 2
+    400084: FenceStrutSection2 3
+    400086: FenceStrutSection2 4
+    400088: FenceStrutSection2 5
+    400090: FenceStrutSection2 6
+    400092: FenceStrutSection2 7
+    400094: FenceStrutSection2 8
+    400096: FenceStrutSection2 9
+    400098: FenceStrutSection3
+    400100: FenceStrutSection3 1
+    400102: FenceStrutSection3 10
+    400104: FenceStrutSection3 11
+    400106: FenceStrutSection3 12
+    400108: FenceStrutSection3 2
+    400110: FenceStrutSection3 3
+    400112: FenceStrutSection3 4
+    400114: FenceStrutSection3 5
+    400116: FenceStrutSection3 6
+    400118: FenceStrutSection3 7
+    400120: FenceStrutSection3 8
+    400122: FenceStrutSection3 9
+    400124: FenceStrutSection4
+    400126: FloorBig
+    400128: FloorSmall
+    400130: FloorSmall2
+    400132: MiddleBar
+    400134: OverBar
+    400136: RoofSupports
+    400138: UnderBar
+    400140: UnderStrut1
+    400142: UnderStrut2
+    400144: UnderStrut3
+    400146: VBar1
+    400148: VBar2
+    400150: VBar3
+    400152: Wall
+    400154: //RootNode
+    2300000: BackVert1
+    2300002: BackVert2
+    2300004: BackVert3
+    2300006: BackVert4
+    2300008: BackVert5
+    2300010: BackVert6
+    2300012: BackVert7
+    2300014: DiagConBar002
+    2300016: DiagConBar003
+    2300018: DiagConBar004
+    2300020: DiagConBar005
+    2300022: DiagConBar006
+    2300024: DiagConBar007
+    2300026: DiagConBar1
+    2300028: DiagOutBar001
+    2300030: DiagOutBar002
+    2300032: DiagOutBar003
+    2300034: DiagOutBar004
+    2300036: DiagOutBar005
+    2300038: DiagOutBar006
+    2300040: DiagOutBar007
+    2300042: FenceStrutSection019
+    2300044: FenceStrutSection020
+    2300046: FenceStrutSection021
+    2300048: FenceStrutSection022
+    2300050: FenceStrutSection023
+    2300052: FenceStrutSection024
+    2300054: FenceStrutSection025
+    2300056: FenceStrutSection026
+    2300058: FenceStrutSection027
+    2300060: FenceStrutSection028
+    2300062: FenceStrutSection029
+    2300064: FenceStrutSection030
+    2300066: FenceStrutSection031
+    2300068: FenceStrutSection2 1
+    2300070: FenceStrutSection2 10
+    2300072: FenceStrutSection2 11
+    2300074: FenceStrutSection2 12
+    2300076: FenceStrutSection2 2
+    2300078: FenceStrutSection2 3
+    2300080: FenceStrutSection2 4
+    2300082: FenceStrutSection2 5
+    2300084: FenceStrutSection2 6
+    2300086: FenceStrutSection2 7
+    2300088: FenceStrutSection2 8
+    2300090: FenceStrutSection2 9
+    2300092: FenceStrutSection3 1
+    2300094: FenceStrutSection3 10
+    2300096: FenceStrutSection3 11
+    2300098: FenceStrutSection3 12
+    2300100: FenceStrutSection3 2
+    2300102: FenceStrutSection3 3
+    2300104: FenceStrutSection3 4
+    2300106: FenceStrutSection3 5
+    2300108: FenceStrutSection3 6
+    2300110: FenceStrutSection3 7
+    2300112: FenceStrutSection3 8
+    2300114: FenceStrutSection3 9
+    2300116: FloorBig
+    2300118: FloorSmall
+    2300120: FloorSmall2
+    2300122: MiddleBar
+    2300124: OverBar
+    2300126: UnderBar
+    2300128: UnderStrut1
+    2300130: UnderStrut2
+    2300132: UnderStrut3
+    2300134: VBar1
+    2300136: VBar2
+    2300138: VBar3
+    2300140: Wall
+    3300000: BackVert1
+    3300002: BackVert2
+    3300004: BackVert3
+    3300006: BackVert4
+    3300008: BackVert5
+    3300010: BackVert6
+    3300012: BackVert7
+    3300014: DiagConBar002
+    3300016: DiagConBar003
+    3300018: DiagConBar004
+    3300020: DiagConBar005
+    3300022: DiagConBar006
+    3300024: DiagConBar007
+    3300026: DiagConBar1
+    3300028: DiagOutBar001
+    3300030: DiagOutBar002
+    3300032: DiagOutBar003
+    3300034: DiagOutBar004
+    3300036: DiagOutBar005
+    3300038: DiagOutBar006
+    3300040: DiagOutBar007
+    3300042: FenceStrutSection019
+    3300044: FenceStrutSection020
+    3300046: FenceStrutSection021
+    3300048: FenceStrutSection022
+    3300050: FenceStrutSection023
+    3300052: FenceStrutSection024
+    3300054: FenceStrutSection025
+    3300056: FenceStrutSection026
+    3300058: FenceStrutSection027
+    3300060: FenceStrutSection028
+    3300062: FenceStrutSection029
+    3300064: FenceStrutSection030
+    3300066: FenceStrutSection031
+    3300068: FenceStrutSection2 1
+    3300070: FenceStrutSection2 10
+    3300072: FenceStrutSection2 11
+    3300074: FenceStrutSection2 12
+    3300076: FenceStrutSection2 2
+    3300078: FenceStrutSection2 3
+    3300080: FenceStrutSection2 4
+    3300082: FenceStrutSection2 5
+    3300084: FenceStrutSection2 6
+    3300086: FenceStrutSection2 7
+    3300088: FenceStrutSection2 8
+    3300090: FenceStrutSection2 9
+    3300092: FenceStrutSection3 1
+    3300094: FenceStrutSection3 10
+    3300096: FenceStrutSection3 11
+    3300098: FenceStrutSection3 12
+    3300100: FenceStrutSection3 2
+    3300102: FenceStrutSection3 3
+    3300104: FenceStrutSection3 4
+    3300106: FenceStrutSection3 5
+    3300108: FenceStrutSection3 6
+    3300110: FenceStrutSection3 7
+    3300112: FenceStrutSection3 8
+    3300114: FenceStrutSection3 9
+    3300116: FloorBig
+    3300118: FloorSmall
+    3300120: FloorSmall2
+    3300122: MiddleBar
+    3300124: OverBar
+    3300126: UnderBar
+    3300128: UnderStrut1
+    3300130: UnderStrut2
+    3300132: UnderStrut3
+    3300134: VBar1
+    3300136: VBar2
+    3300138: VBar3
+    3300140: Wall
+    4300000: Wall
+    4300002: VBar3
+    4300004: VBar2
+    4300006: VBar1
+    4300008: UnderStrut3
+    4300010: UnderStrut2
+    4300012: UnderStrut1
+    4300014: UnderBar
+    4300016: OverBar
+    4300018: MiddleBar
+    4300020: FenceStrutSection3
+    4300022: FenceStrutSection3
+    4300024: FenceStrutSection3
+    4300026: FenceStrutSection3
+    4300028: FenceStrutSection3
+    4300030: FenceStrutSection3
+    4300032: FenceStrutSection3
+    4300034: FenceStrutSection3
+    4300036: FenceStrutSection3
+    4300038: FenceStrutSection3
+    4300040: FenceStrutSection3
+    4300042: FenceStrutSection3
+    4300044: FenceStrutSection2
+    4300046: FenceStrutSection2
+    4300048: FenceStrutSection2
+    4300050: FenceStrutSection2
+    4300052: FenceStrutSection2
+    4300054: FenceStrutSection2
+    4300056: FenceStrutSection2
+    4300058: FenceStrutSection2
+    4300060: FenceStrutSection2
+    4300062: FenceStrutSection2
+    4300064: FenceStrutSection2
+    4300066: FenceStrutSection2
+    4300068: FenceStrutSection025
+    4300070: FenceStrutSection024
+    4300072: FenceStrutSection023
+    4300074: FenceStrutSection022
+    4300076: FenceStrutSection021
+    4300078: FenceStrutSection020
+    4300080: FenceStrutSection019
+    4300082: FenceStrutSection031
+    4300084: FenceStrutSection030
+    4300086: FenceStrutSection029
+    4300088: FenceStrutSection028
+    4300090: FenceStrutSection027
+    4300092: FenceStrutSection026
+    4300094: DiagConBar1
+    4300096: DiagConBar002
+    4300098: DiagConBar003
+    4300100: DiagConBar004
+    4300102: DiagConBar005
+    4300104: DiagConBar006
+    4300106: DiagConBar007
+    4300108: DiagOutBar001
+    4300110: DiagOutBar002
+    4300112: DiagOutBar003
+    4300114: DiagOutBar004
+    4300116: DiagOutBar005
+    4300118: DiagOutBar006
+    4300120: DiagOutBar007
+    4300122: BackVert1
+    4300124: BackVert2
+    4300126: BackVert3
+    4300128: BackVert4
+    4300130: BackVert5
+    4300132: BackVert6
+    4300134: BackVert7
+    4300136: FloorBig
+    4300138: FloorSmall
+    4300140: FloorSmall2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

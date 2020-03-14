@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: b2b0cbfbac6d735478da3d9c08942829
+timeCreated: 1493768373
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base
+    100002: Base001
+    100004: Container002
+    100006: Container003
+    100008: Container004
+    100010: Container005
+    100012: Container006
+    100014: Container007
+    100016: Container008
+    100018: Container009
+    100020: Door
+    100022: HatchWindowLeft
+    100024: HatchWindowLeft 1
+    100026: HatchWindowLeft 2
+    100028: HatchWindowLeft 3
+    100030: HatchWindowLeft 4
+    100032: HatchWindowLeft 5
+    100034: HatchWindowLeft 6
+    100036: HatchWindowLeft 7
+    100038: HatchWindowRight
+    100040: HatchWindowRight 1
+    100042: HatchWindowRight 2
+    100044: HatchWindowRight 3
+    100046: HatchWindowRight 4
+    100048: HatchWindowRight 5
+    100050: HatchWindowRight 6
+    100052: HatchWindowRight 7
+    100054: //RootNode
+    100056: Prism1
+    100058: r
+    100060: Roof002
+    100062: Roof1
+    100064: WoodenBeam006
+    100066: WoodenBeam014
+    100068: WoodenBeam015
+    100070: WoodenBeam016
+    100072: WoodenBeam017
+    100074: WoodenBeam018
+    100076: WoodenBeam019
+    100078: WoodenBeam020
+    100080: WoodenBeam021
+    100082: WoodenPillar001
+    100084: WoodenPillar002
+    100086: WoodenPillar003
+    100088: WoodenPillar004
+    100090: WoodenPillar006
+    100092: WoodenPillar009
+    100094: WoodenPillar010
+    100096: WoodenPillar011
+    100098: WoodenPillar014
+    100100: WoodenPillar015
+    100102: WoodenPillar016
+    100104: WoodenPillar017
+    100106: WoodenPillar018
+    100108: WoodenPillar019
+    100110: WoodenPillar020
+    100112: WoodenPillar021
+    100114: WoodenPillar022
+    100116: WoodenPillar023
+    100118: WoodenPillar024
+    100120: WoodenPillar025
+    100122: WoodenPillar026
+    100124: WoodenPillar027
+    100126: WoodenPillar028
+    100128: WoodenPillar029
+    100130: WoodenPillar030
+    100132: WoodenPillar031
+    100134: WoodenPillar032
+    100136: WoodenPillar033
+    100138: WoodenPillar034
+    400000: Base
+    400002: Base001
+    400004: Container002
+    400006: Container003
+    400008: Container004
+    400010: Container005
+    400012: Container006
+    400014: Container007
+    400016: Container008
+    400018: Container009
+    400020: Door
+    400022: HatchWindowLeft
+    400024: HatchWindowLeft 1
+    400026: HatchWindowLeft 2
+    400028: HatchWindowLeft 3
+    400030: HatchWindowLeft 4
+    400032: HatchWindowLeft 5
+    400034: HatchWindowLeft 6
+    400036: HatchWindowLeft 7
+    400038: HatchWindowRight
+    400040: HatchWindowRight 1
+    400042: HatchWindowRight 2
+    400044: HatchWindowRight 3
+    400046: HatchWindowRight 4
+    400048: HatchWindowRight 5
+    400050: HatchWindowRight 6
+    400052: HatchWindowRight 7
+    400054: //RootNode
+    400056: Prism1
+    400058: r
+    400060: Roof002
+    400062: Roof1
+    400064: WoodenBeam006
+    400066: WoodenBeam014
+    400068: WoodenBeam015
+    400070: WoodenBeam016
+    400072: WoodenBeam017
+    400074: WoodenBeam018
+    400076: WoodenBeam019
+    400078: WoodenBeam020
+    400080: WoodenBeam021
+    400082: WoodenPillar001
+    400084: WoodenPillar002
+    400086: WoodenPillar003
+    400088: WoodenPillar004
+    400090: WoodenPillar006
+    400092: WoodenPillar009
+    400094: WoodenPillar010
+    400096: WoodenPillar011
+    400098: WoodenPillar014
+    400100: WoodenPillar015
+    400102: WoodenPillar016
+    400104: WoodenPillar017
+    400106: WoodenPillar018
+    400108: WoodenPillar019
+    400110: WoodenPillar020
+    400112: WoodenPillar021
+    400114: WoodenPillar022
+    400116: WoodenPillar023
+    400118: WoodenPillar024
+    400120: WoodenPillar025
+    400122: WoodenPillar026
+    400124: WoodenPillar027
+    400126: WoodenPillar028
+    400128: WoodenPillar029
+    400130: WoodenPillar030
+    400132: WoodenPillar031
+    400134: WoodenPillar032
+    400136: WoodenPillar033
+    400138: WoodenPillar034
+    2300000: Base
+    2300002: Base001
+    2300004: Door
+    2300006: HatchWindowLeft
+    2300008: HatchWindowLeft 1
+    2300010: HatchWindowLeft 2
+    2300012: HatchWindowLeft 3
+    2300014: HatchWindowLeft 4
+    2300016: HatchWindowLeft 5
+    2300018: HatchWindowLeft 6
+    2300020: HatchWindowLeft 7
+    2300022: HatchWindowRight
+    2300024: HatchWindowRight 1
+    2300026: HatchWindowRight 2
+    2300028: HatchWindowRight 3
+    2300030: HatchWindowRight 4
+    2300032: HatchWindowRight 5
+    2300034: HatchWindowRight 6
+    2300036: HatchWindowRight 7
+    2300038: Prism1
+    2300040: r
+    2300042: Roof002
+    2300044: Roof1
+    2300046: WoodenBeam006
+    2300048: WoodenBeam014
+    2300050: WoodenBeam015
+    2300052: WoodenBeam016
+    2300054: WoodenBeam017
+    2300056: WoodenBeam018
+    2300058: WoodenBeam019
+    2300060: WoodenBeam020
+    2300062: WoodenBeam021
+    2300064: WoodenPillar001
+    2300066: WoodenPillar002
+    2300068: WoodenPillar003
+    2300070: WoodenPillar004
+    2300072: WoodenPillar006
+    2300074: WoodenPillar009
+    2300076: WoodenPillar010
+    2300078: WoodenPillar011
+    2300080: WoodenPillar014
+    2300082: WoodenPillar015
+    2300084: WoodenPillar016
+    2300086: WoodenPillar017
+    2300088: WoodenPillar018
+    2300090: WoodenPillar019
+    2300092: WoodenPillar020
+    2300094: WoodenPillar021
+    2300096: WoodenPillar022
+    2300098: WoodenPillar023
+    2300100: WoodenPillar024
+    2300102: WoodenPillar025
+    2300104: WoodenPillar026
+    2300106: WoodenPillar027
+    2300108: WoodenPillar028
+    2300110: WoodenPillar029
+    2300112: WoodenPillar030
+    2300114: WoodenPillar031
+    2300116: WoodenPillar032
+    2300118: WoodenPillar033
+    2300120: WoodenPillar034
+    3300000: Base
+    3300002: Base001
+    3300004: Door
+    3300006: HatchWindowLeft
+    3300008: HatchWindowLeft 1
+    3300010: HatchWindowLeft 2
+    3300012: HatchWindowLeft 3
+    3300014: HatchWindowLeft 4
+    3300016: HatchWindowLeft 5
+    3300018: HatchWindowLeft 6
+    3300020: HatchWindowLeft 7
+    3300022: HatchWindowRight
+    3300024: HatchWindowRight 1
+    3300026: HatchWindowRight 2
+    3300028: HatchWindowRight 3
+    3300030: HatchWindowRight 4
+    3300032: HatchWindowRight 5
+    3300034: HatchWindowRight 6
+    3300036: HatchWindowRight 7
+    3300038: Prism1
+    3300040: r
+    3300042: Roof002
+    3300044: Roof1
+    3300046: WoodenBeam006
+    3300048: WoodenBeam014
+    3300050: WoodenBeam015
+    3300052: WoodenBeam016
+    3300054: WoodenBeam017
+    3300056: WoodenBeam018
+    3300058: WoodenBeam019
+    3300060: WoodenBeam020
+    3300062: WoodenBeam021
+    3300064: WoodenPillar001
+    3300066: WoodenPillar002
+    3300068: WoodenPillar003
+    3300070: WoodenPillar004
+    3300072: WoodenPillar006
+    3300074: WoodenPillar009
+    3300076: WoodenPillar010
+    3300078: WoodenPillar011
+    3300080: WoodenPillar014
+    3300082: WoodenPillar015
+    3300084: WoodenPillar016
+    3300086: WoodenPillar017
+    3300088: WoodenPillar018
+    3300090: WoodenPillar019
+    3300092: WoodenPillar020
+    3300094: WoodenPillar021
+    3300096: WoodenPillar022
+    3300098: WoodenPillar023
+    3300100: WoodenPillar024
+    3300102: WoodenPillar025
+    3300104: WoodenPillar026
+    3300106: WoodenPillar027
+    3300108: WoodenPillar028
+    3300110: WoodenPillar029
+    3300112: WoodenPillar030
+    3300114: WoodenPillar031
+    3300116: WoodenPillar032
+    3300118: WoodenPillar033
+    3300120: WoodenPillar034
+    4300000: Base
+    4300002: Prism1
+    4300004: Roof1
+    4300006: Roof002
+    4300008: Door
+    4300010: HatchWindowLeft
+    4300012: HatchWindowRight
+    4300014: HatchWindowLeft
+    4300016: HatchWindowRight
+    4300018: WoodenBeam006
+    4300020: r
+    4300022: WoodenBeam014
+    4300024: WoodenPillar001
+    4300026: WoodenPillar002
+    4300028: WoodenPillar003
+    4300030: WoodenPillar004
+    4300032: WoodenPillar006
+    4300034: WoodenPillar009
+    4300036: WoodenPillar010
+    4300038: WoodenPillar011
+    4300040: WoodenPillar014
+    4300042: WoodenPillar015
+    4300044: WoodenBeam015
+    4300046: WoodenPillar016
+    4300048: WoodenPillar017
+    4300050: WoodenPillar018
+    4300052: HatchWindowLeft
+    4300054: HatchWindowRight
+    4300056: HatchWindowLeft
+    4300058: HatchWindowRight
+    4300060: Base001
+    4300062: WoodenBeam016
+    4300064: WoodenBeam017
+    4300066: WoodenBeam018
+    4300068: WoodenBeam019
+    4300070: WoodenPillar019
+    4300072: WoodenPillar020
+    4300074: WoodenPillar021
+    4300076: WoodenPillar022
+    4300078: WoodenPillar023
+    4300080: WoodenPillar024
+    4300082: WoodenPillar025
+    4300084: WoodenPillar026
+    4300086: WoodenPillar027
+    4300088: WoodenPillar028
+    4300090: WoodenPillar029
+    4300092: WoodenPillar030
+    4300094: WoodenPillar031
+    4300096: WoodenPillar032
+    4300098: WoodenPillar033
+    4300100: WoodenPillar034
+    4300102: WoodenBeam020
+    4300104: WoodenBeam021
+    4300106: HatchWindowLeft
+    4300108: HatchWindowRight
+    4300110: HatchWindowLeft
+    4300112: HatchWindowRight
+    4300114: HatchWindowLeft
+    4300116: HatchWindowRight
+    4300118: HatchWindowLeft
+    4300120: HatchWindowRight
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

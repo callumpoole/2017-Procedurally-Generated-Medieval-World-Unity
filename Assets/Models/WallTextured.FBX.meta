@@ -1,0 +1,1148 @@
+fileFormatVersion: 2
+guid: caeac77fdf55f2244872741005d68735
+timeCreated: 1491590127
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackVert
+    100002: BackVert1
+    100004: BackVert2
+    100006: BackVert3
+    100008: BackVert4
+    100010: BackVert5
+    100012: BackVert6
+    100014: BackVert7
+    100016: DiagConBar002
+    100018: DiagConBar003
+    100020: DiagConBar004
+    100022: DiagConBar005
+    100024: DiagConBar006
+    100026: DiagConBar007
+    100028: DiagConBar1
+    100030: DiagOutBar001
+    100032: DiagOutBar002
+    100034: DiagOutBar003
+    100036: DiagOutBar004
+    100038: DiagOutBar005
+    100040: DiagOutBar006
+    100042: DiagOutBar007
+    100044: FenceStrutSection019
+    100046: FenceStrutSection020
+    100048: FenceStrutSection021
+    100050: FenceStrutSection022
+    100052: FenceStrutSection023
+    100054: FenceStrutSection024
+    100056: FenceStrutSection025
+    100058: FenceStrutSection026
+    100060: FenceStrutSection027
+    100062: FenceStrutSection028
+    100064: FenceStrutSection029
+    100066: FenceStrutSection030
+    100068: FenceStrutSection031
+    100070: FenceStrutSection1
+    100072: FenceStrutSection2
+    100074: FenceStrutSection2 1
+    100076: FenceStrutSection2 10
+    100078: FenceStrutSection2 11
+    100080: FenceStrutSection2 12
+    100082: FenceStrutSection2 2
+    100084: FenceStrutSection2 3
+    100086: FenceStrutSection2 4
+    100088: FenceStrutSection2 5
+    100090: FenceStrutSection2 6
+    100092: FenceStrutSection2 7
+    100094: FenceStrutSection2 8
+    100096: FenceStrutSection2 9
+    100098: FenceStrutSection3
+    100100: FenceStrutSection3 1
+    100102: FenceStrutSection3 10
+    100104: FenceStrutSection3 11
+    100106: FenceStrutSection3 12
+    100108: FenceStrutSection3 2
+    100110: FenceStrutSection3 3
+    100112: FenceStrutSection3 4
+    100114: FenceStrutSection3 5
+    100116: FenceStrutSection3 6
+    100118: FenceStrutSection3 7
+    100120: FenceStrutSection3 8
+    100122: FenceStrutSection3 9
+    100124: FenceStrutSection4
+    100126: MiddleBar
+    100128: OverBar
+    100130: Roof
+    100132: RoofSupports
+    100134: RoofTile
+    100136: RoofTile001
+    100138: RoofTile002
+    100140: RoofTile003
+    100142: RoofTile004
+    100144: RoofTile005
+    100146: RoofTile006
+    100148: RoofTile007
+    100150: RoofTile008
+    100152: RoofTile009
+    100154: RoofTile010
+    100156: RoofTile011
+    100158: RoofTile012
+    100160: RoofTile013
+    100162: RoofTile014
+    100164: RoofTile015
+    100166: RoofTile016
+    100168: RoofTile017
+    100170: RoofTile018
+    100172: RoofTile019
+    100174: RoofTile020
+    100176: RoofTile021
+    100178: RoofTile022
+    100180: RoofTile023
+    100182: RoofTile024
+    100184: RoofTile025
+    100186: RoofTile026
+    100188: RoofTile027
+    100190: RoofTile028
+    100192: RoofTile029
+    100194: RoofTile030
+    100196: RoofTile031
+    100198: RoofTile032
+    100200: RoofTile033
+    100202: RoofTile034
+    100204: RoofTile035
+    100206: RoofTile036
+    100208: RoofTile037
+    100210: RoofTile038
+    100212: RoofTile039
+    100214: RoofTile040
+    100216: RoofTile041
+    100218: RoofTile042
+    100220: RoofTile043
+    100222: RoofTile044
+    100224: RoofTile045
+    100226: RoofTile046
+    100228: RoofTile047
+    100230: RoofTile048
+    100232: RoofTile049
+    100234: RoofTile050
+    100236: RoofTile051
+    100238: RoofTile052
+    100240: RoofTile053
+    100242: RoofTile054
+    100244: RoofTile055
+    100246: RoofTile056
+    100248: RoofTile057
+    100250: RoofTile058
+    100252: RootTileR
+    100254: RootTileR001
+    100256: RootTileR002
+    100258: RootTileR003
+    100260: RootTileR004
+    100262: RootTileR005
+    100264: RootTileR006
+    100266: RootTileR007
+    100268: RootTileR008
+    100270: RootTileR009
+    100272: RootTileR010
+    100274: RootTileR011
+    100276: RootTileR012
+    100278: RootTileR013
+    100280: RootTileR014
+    100282: RootTileR015
+    100284: RootTileR016
+    100286: RootTileR017
+    100288: RootTileR018
+    100290: RootTileR019
+    100292: RootTileR020
+    100294: RootTileR021
+    100296: RootTileR022
+    100298: RootTileR023
+    100300: RootTileR024
+    100302: RootTileR025
+    100304: RootTileR026
+    100306: RootTileR027
+    100308: RootTileR028
+    100310: RootTileR029
+    100312: RootTileR030
+    100314: RootTileR031
+    100316: RootTileR032
+    100318: RootTileR033
+    100320: RootTileR034
+    100322: RootTileR035
+    100324: RootTileR036
+    100326: RootTileR037
+    100328: RootTileR038
+    100330: RootTileR039
+    100332: RootTileR040
+    100334: RootTileR041
+    100336: RootTileR042
+    100338: RootTileR043
+    100340: RootTileR044
+    100342: RootTileR045
+    100344: RootTileR046
+    100346: RootTileR047
+    100348: RootTileR048
+    100350: RootTileR049
+    100352: RootTileR050
+    100354: RootTileR051
+    100356: RootTileR052
+    100358: RootTileR053
+    100360: RootTileR054
+    100362: RootTileR055
+    100364: RootTileR056
+    100366: RootTileR057
+    100368: RootTileR058
+    100370: TileFB
+    100372: TileFB001
+    100374: TileFB002
+    100376: TileFB003
+    100378: TileFB004
+    100380: TileFB005
+    100382: TileFB006
+    100384: TileFB007
+    100386: TileFB008
+    100388: TileFB009
+    100390: TileFB010
+    100392: TileFB011
+    100394: TileFB012
+    100396: TileFB013
+    100398: TileFB014
+    100400: TileFB015
+    100402: TileFB016
+    100404: TileFB017
+    100406: TileFB018
+    100408: TileFB019
+    100410: TileFB020
+    100412: TileFB021
+    100414: TileFB022
+    100416: TileFB023
+    100418: TileFB024
+    100420: TileFB025
+    100422: TileFB026
+    100424: TileFB027
+    100426: TileFB028
+    100428: TileFB029
+    100430: TileFB030
+    100432: TileFB031
+    100434: TileFB032
+    100436: TileFB033
+    100438: TileFB034
+    100440: TileFB035
+    100442: TileFB036
+    100444: TileFB037
+    100446: TileFB038
+    100448: TileFB039
+    100450: TileFB040
+    100452: TileFB041
+    100454: TileFB042
+    100456: TileFB043
+    100458: TileFB044
+    100460: TileFB045
+    100462: TileFB046
+    100464: TileFB047
+    100466: TileFB048
+    100468: TileFB049
+    100470: TileFB050
+    100472: TileFB051
+    100474: TileFB052
+    100476: TileFB053
+    100478: TileFB054
+    100480: TileFB055
+    100482: TileFB056
+    100484: TileFB057
+    100486: TileFB058
+    100488: TileOf011
+    100490: TileOf012
+    100492: TileOf013
+    100494: TileOf014
+    100496: TileOf10
+    100498: TileOf9
+    100500: UnderBar
+    100502: UnderStrut1
+    100504: UnderStrut2
+    100506: UnderStrut3
+    100508: VBar1
+    100510: VBar2
+    100512: VBar3
+    100514: Wall
+    100516: //RootNode
+    400000: BackVert
+    400002: BackVert1
+    400004: BackVert2
+    400006: BackVert3
+    400008: BackVert4
+    400010: BackVert5
+    400012: BackVert6
+    400014: BackVert7
+    400016: DiagConBar002
+    400018: DiagConBar003
+    400020: DiagConBar004
+    400022: DiagConBar005
+    400024: DiagConBar006
+    400026: DiagConBar007
+    400028: DiagConBar1
+    400030: DiagOutBar001
+    400032: DiagOutBar002
+    400034: DiagOutBar003
+    400036: DiagOutBar004
+    400038: DiagOutBar005
+    400040: DiagOutBar006
+    400042: DiagOutBar007
+    400044: FenceStrutSection019
+    400046: FenceStrutSection020
+    400048: FenceStrutSection021
+    400050: FenceStrutSection022
+    400052: FenceStrutSection023
+    400054: FenceStrutSection024
+    400056: FenceStrutSection025
+    400058: FenceStrutSection026
+    400060: FenceStrutSection027
+    400062: FenceStrutSection028
+    400064: FenceStrutSection029
+    400066: FenceStrutSection030
+    400068: FenceStrutSection031
+    400070: FenceStrutSection1
+    400072: FenceStrutSection2
+    400074: FenceStrutSection2 1
+    400076: FenceStrutSection2 10
+    400078: FenceStrutSection2 11
+    400080: FenceStrutSection2 12
+    400082: FenceStrutSection2 2
+    400084: FenceStrutSection2 3
+    400086: FenceStrutSection2 4
+    400088: FenceStrutSection2 5
+    400090: FenceStrutSection2 6
+    400092: FenceStrutSection2 7
+    400094: FenceStrutSection2 8
+    400096: FenceStrutSection2 9
+    400098: FenceStrutSection3
+    400100: FenceStrutSection3 1
+    400102: FenceStrutSection3 10
+    400104: FenceStrutSection3 11
+    400106: FenceStrutSection3 12
+    400108: FenceStrutSection3 2
+    400110: FenceStrutSection3 3
+    400112: FenceStrutSection3 4
+    400114: FenceStrutSection3 5
+    400116: FenceStrutSection3 6
+    400118: FenceStrutSection3 7
+    400120: FenceStrutSection3 8
+    400122: FenceStrutSection3 9
+    400124: FenceStrutSection4
+    400126: MiddleBar
+    400128: OverBar
+    400130: Roof
+    400132: RoofSupports
+    400134: RoofTile
+    400136: RoofTile001
+    400138: RoofTile002
+    400140: RoofTile003
+    400142: RoofTile004
+    400144: RoofTile005
+    400146: RoofTile006
+    400148: RoofTile007
+    400150: RoofTile008
+    400152: RoofTile009
+    400154: RoofTile010
+    400156: RoofTile011
+    400158: RoofTile012
+    400160: RoofTile013
+    400162: RoofTile014
+    400164: RoofTile015
+    400166: RoofTile016
+    400168: RoofTile017
+    400170: RoofTile018
+    400172: RoofTile019
+    400174: RoofTile020
+    400176: RoofTile021
+    400178: RoofTile022
+    400180: RoofTile023
+    400182: RoofTile024
+    400184: RoofTile025
+    400186: RoofTile026
+    400188: RoofTile027
+    400190: RoofTile028
+    400192: RoofTile029
+    400194: RoofTile030
+    400196: RoofTile031
+    400198: RoofTile032
+    400200: RoofTile033
+    400202: RoofTile034
+    400204: RoofTile035
+    400206: RoofTile036
+    400208: RoofTile037
+    400210: RoofTile038
+    400212: RoofTile039
+    400214: RoofTile040
+    400216: RoofTile041
+    400218: RoofTile042
+    400220: RoofTile043
+    400222: RoofTile044
+    400224: RoofTile045
+    400226: RoofTile046
+    400228: RoofTile047
+    400230: RoofTile048
+    400232: RoofTile049
+    400234: RoofTile050
+    400236: RoofTile051
+    400238: RoofTile052
+    400240: RoofTile053
+    400242: RoofTile054
+    400244: RoofTile055
+    400246: RoofTile056
+    400248: RoofTile057
+    400250: RoofTile058
+    400252: RootTileR
+    400254: RootTileR001
+    400256: RootTileR002
+    400258: RootTileR003
+    400260: RootTileR004
+    400262: RootTileR005
+    400264: RootTileR006
+    400266: RootTileR007
+    400268: RootTileR008
+    400270: RootTileR009
+    400272: RootTileR010
+    400274: RootTileR011
+    400276: RootTileR012
+    400278: RootTileR013
+    400280: RootTileR014
+    400282: RootTileR015
+    400284: RootTileR016
+    400286: RootTileR017
+    400288: RootTileR018
+    400290: RootTileR019
+    400292: RootTileR020
+    400294: RootTileR021
+    400296: RootTileR022
+    400298: RootTileR023
+    400300: RootTileR024
+    400302: RootTileR025
+    400304: RootTileR026
+    400306: RootTileR027
+    400308: RootTileR028
+    400310: RootTileR029
+    400312: RootTileR030
+    400314: RootTileR031
+    400316: RootTileR032
+    400318: RootTileR033
+    400320: RootTileR034
+    400322: RootTileR035
+    400324: RootTileR036
+    400326: RootTileR037
+    400328: RootTileR038
+    400330: RootTileR039
+    400332: RootTileR040
+    400334: RootTileR041
+    400336: RootTileR042
+    400338: RootTileR043
+    400340: RootTileR044
+    400342: RootTileR045
+    400344: RootTileR046
+    400346: RootTileR047
+    400348: RootTileR048
+    400350: RootTileR049
+    400352: RootTileR050
+    400354: RootTileR051
+    400356: RootTileR052
+    400358: RootTileR053
+    400360: RootTileR054
+    400362: RootTileR055
+    400364: RootTileR056
+    400366: RootTileR057
+    400368: RootTileR058
+    400370: TileFB
+    400372: TileFB001
+    400374: TileFB002
+    400376: TileFB003
+    400378: TileFB004
+    400380: TileFB005
+    400382: TileFB006
+    400384: TileFB007
+    400386: TileFB008
+    400388: TileFB009
+    400390: TileFB010
+    400392: TileFB011
+    400394: TileFB012
+    400396: TileFB013
+    400398: TileFB014
+    400400: TileFB015
+    400402: TileFB016
+    400404: TileFB017
+    400406: TileFB018
+    400408: TileFB019
+    400410: TileFB020
+    400412: TileFB021
+    400414: TileFB022
+    400416: TileFB023
+    400418: TileFB024
+    400420: TileFB025
+    400422: TileFB026
+    400424: TileFB027
+    400426: TileFB028
+    400428: TileFB029
+    400430: TileFB030
+    400432: TileFB031
+    400434: TileFB032
+    400436: TileFB033
+    400438: TileFB034
+    400440: TileFB035
+    400442: TileFB036
+    400444: TileFB037
+    400446: TileFB038
+    400448: TileFB039
+    400450: TileFB040
+    400452: TileFB041
+    400454: TileFB042
+    400456: TileFB043
+    400458: TileFB044
+    400460: TileFB045
+    400462: TileFB046
+    400464: TileFB047
+    400466: TileFB048
+    400468: TileFB049
+    400470: TileFB050
+    400472: TileFB051
+    400474: TileFB052
+    400476: TileFB053
+    400478: TileFB054
+    400480: TileFB055
+    400482: TileFB056
+    400484: TileFB057
+    400486: TileFB058
+    400488: TileOf011
+    400490: TileOf012
+    400492: TileOf013
+    400494: TileOf014
+    400496: TileOf10
+    400498: TileOf9
+    400500: UnderBar
+    400502: UnderStrut1
+    400504: UnderStrut2
+    400506: UnderStrut3
+    400508: VBar1
+    400510: VBar2
+    400512: VBar3
+    400514: Wall
+    400516: //RootNode
+    2300000: BackVert1
+    2300002: BackVert2
+    2300004: BackVert3
+    2300006: BackVert4
+    2300008: BackVert5
+    2300010: BackVert6
+    2300012: BackVert7
+    2300014: DiagConBar002
+    2300016: DiagConBar003
+    2300018: DiagConBar004
+    2300020: DiagConBar005
+    2300022: DiagConBar006
+    2300024: DiagConBar007
+    2300026: DiagConBar1
+    2300028: DiagOutBar001
+    2300030: DiagOutBar002
+    2300032: DiagOutBar003
+    2300034: DiagOutBar004
+    2300036: DiagOutBar005
+    2300038: DiagOutBar006
+    2300040: DiagOutBar007
+    2300042: FenceStrutSection019
+    2300044: FenceStrutSection020
+    2300046: FenceStrutSection021
+    2300048: FenceStrutSection022
+    2300050: FenceStrutSection023
+    2300052: FenceStrutSection024
+    2300054: FenceStrutSection025
+    2300056: FenceStrutSection026
+    2300058: FenceStrutSection027
+    2300060: FenceStrutSection028
+    2300062: FenceStrutSection029
+    2300064: FenceStrutSection030
+    2300066: FenceStrutSection031
+    2300068: FenceStrutSection2 1
+    2300070: FenceStrutSection2 10
+    2300072: FenceStrutSection2 11
+    2300074: FenceStrutSection2 12
+    2300076: FenceStrutSection2 2
+    2300078: FenceStrutSection2 3
+    2300080: FenceStrutSection2 4
+    2300082: FenceStrutSection2 5
+    2300084: FenceStrutSection2 6
+    2300086: FenceStrutSection2 7
+    2300088: FenceStrutSection2 8
+    2300090: FenceStrutSection2 9
+    2300092: FenceStrutSection3 1
+    2300094: FenceStrutSection3 10
+    2300096: FenceStrutSection3 11
+    2300098: FenceStrutSection3 12
+    2300100: FenceStrutSection3 2
+    2300102: FenceStrutSection3 3
+    2300104: FenceStrutSection3 4
+    2300106: FenceStrutSection3 5
+    2300108: FenceStrutSection3 6
+    2300110: FenceStrutSection3 7
+    2300112: FenceStrutSection3 8
+    2300114: FenceStrutSection3 9
+    2300116: MiddleBar
+    2300118: OverBar
+    2300120: RoofTile
+    2300122: RoofTile001
+    2300124: RoofTile002
+    2300126: RoofTile003
+    2300128: RoofTile004
+    2300130: RoofTile005
+    2300132: RoofTile006
+    2300134: RoofTile007
+    2300136: RoofTile008
+    2300138: RoofTile009
+    2300140: RoofTile010
+    2300142: RoofTile011
+    2300144: RoofTile012
+    2300146: RoofTile013
+    2300148: RoofTile014
+    2300150: RoofTile015
+    2300152: RoofTile016
+    2300154: RoofTile017
+    2300156: RoofTile018
+    2300158: RoofTile019
+    2300160: RoofTile020
+    2300162: RoofTile021
+    2300164: RoofTile022
+    2300166: RoofTile023
+    2300168: RoofTile024
+    2300170: RoofTile025
+    2300172: RoofTile026
+    2300174: RoofTile027
+    2300176: RoofTile028
+    2300178: RoofTile029
+    2300180: RoofTile030
+    2300182: RoofTile031
+    2300184: RoofTile032
+    2300186: RoofTile033
+    2300188: RoofTile034
+    2300190: RoofTile035
+    2300192: RoofTile036
+    2300194: RoofTile037
+    2300196: RoofTile038
+    2300198: RoofTile039
+    2300200: RoofTile040
+    2300202: RoofTile041
+    2300204: RoofTile042
+    2300206: RoofTile043
+    2300208: RoofTile044
+    2300210: RoofTile045
+    2300212: RoofTile046
+    2300214: RoofTile047
+    2300216: RoofTile048
+    2300218: RoofTile049
+    2300220: RoofTile050
+    2300222: RoofTile051
+    2300224: RoofTile052
+    2300226: RoofTile053
+    2300228: RoofTile054
+    2300230: RoofTile055
+    2300232: RoofTile056
+    2300234: RoofTile057
+    2300236: RoofTile058
+    2300238: RootTileR
+    2300240: RootTileR001
+    2300242: RootTileR002
+    2300244: RootTileR003
+    2300246: RootTileR004
+    2300248: RootTileR005
+    2300250: RootTileR006
+    2300252: RootTileR007
+    2300254: RootTileR008
+    2300256: RootTileR009
+    2300258: RootTileR010
+    2300260: RootTileR011
+    2300262: RootTileR012
+    2300264: RootTileR013
+    2300266: RootTileR014
+    2300268: RootTileR015
+    2300270: RootTileR016
+    2300272: RootTileR017
+    2300274: RootTileR018
+    2300276: RootTileR019
+    2300278: RootTileR020
+    2300280: RootTileR021
+    2300282: RootTileR022
+    2300284: RootTileR023
+    2300286: RootTileR024
+    2300288: RootTileR025
+    2300290: RootTileR026
+    2300292: RootTileR027
+    2300294: RootTileR028
+    2300296: RootTileR029
+    2300298: RootTileR030
+    2300300: RootTileR031
+    2300302: RootTileR032
+    2300304: RootTileR033
+    2300306: RootTileR034
+    2300308: RootTileR035
+    2300310: RootTileR036
+    2300312: RootTileR037
+    2300314: RootTileR038
+    2300316: RootTileR039
+    2300318: RootTileR040
+    2300320: RootTileR041
+    2300322: RootTileR042
+    2300324: RootTileR043
+    2300326: RootTileR044
+    2300328: RootTileR045
+    2300330: RootTileR046
+    2300332: RootTileR047
+    2300334: RootTileR048
+    2300336: RootTileR049
+    2300338: RootTileR050
+    2300340: RootTileR051
+    2300342: RootTileR052
+    2300344: RootTileR053
+    2300346: RootTileR054
+    2300348: RootTileR055
+    2300350: RootTileR056
+    2300352: RootTileR057
+    2300354: RootTileR058
+    2300356: UnderBar
+    2300358: UnderStrut1
+    2300360: UnderStrut2
+    2300362: UnderStrut3
+    2300364: VBar1
+    2300366: VBar2
+    2300368: VBar3
+    2300370: Wall
+    3300000: BackVert1
+    3300002: BackVert2
+    3300004: BackVert3
+    3300006: BackVert4
+    3300008: BackVert5
+    3300010: BackVert6
+    3300012: BackVert7
+    3300014: DiagConBar002
+    3300016: DiagConBar003
+    3300018: DiagConBar004
+    3300020: DiagConBar005
+    3300022: DiagConBar006
+    3300024: DiagConBar007
+    3300026: DiagConBar1
+    3300028: DiagOutBar001
+    3300030: DiagOutBar002
+    3300032: DiagOutBar003
+    3300034: DiagOutBar004
+    3300036: DiagOutBar005
+    3300038: DiagOutBar006
+    3300040: DiagOutBar007
+    3300042: FenceStrutSection019
+    3300044: FenceStrutSection020
+    3300046: FenceStrutSection021
+    3300048: FenceStrutSection022
+    3300050: FenceStrutSection023
+    3300052: FenceStrutSection024
+    3300054: FenceStrutSection025
+    3300056: FenceStrutSection026
+    3300058: FenceStrutSection027
+    3300060: FenceStrutSection028
+    3300062: FenceStrutSection029
+    3300064: FenceStrutSection030
+    3300066: FenceStrutSection031
+    3300068: FenceStrutSection2 1
+    3300070: FenceStrutSection2 10
+    3300072: FenceStrutSection2 11
+    3300074: FenceStrutSection2 12
+    3300076: FenceStrutSection2 2
+    3300078: FenceStrutSection2 3
+    3300080: FenceStrutSection2 4
+    3300082: FenceStrutSection2 5
+    3300084: FenceStrutSection2 6
+    3300086: FenceStrutSection2 7
+    3300088: FenceStrutSection2 8
+    3300090: FenceStrutSection2 9
+    3300092: FenceStrutSection3 1
+    3300094: FenceStrutSection3 10
+    3300096: FenceStrutSection3 11
+    3300098: FenceStrutSection3 12
+    3300100: FenceStrutSection3 2
+    3300102: FenceStrutSection3 3
+    3300104: FenceStrutSection3 4
+    3300106: FenceStrutSection3 5
+    3300108: FenceStrutSection3 6
+    3300110: FenceStrutSection3 7
+    3300112: FenceStrutSection3 8
+    3300114: FenceStrutSection3 9
+    3300116: MiddleBar
+    3300118: OverBar
+    3300120: RoofTile
+    3300122: RoofTile001
+    3300124: RoofTile002
+    3300126: RoofTile003
+    3300128: RoofTile004
+    3300130: RoofTile005
+    3300132: RoofTile006
+    3300134: RoofTile007
+    3300136: RoofTile008
+    3300138: RoofTile009
+    3300140: RoofTile010
+    3300142: RoofTile011
+    3300144: RoofTile012
+    3300146: RoofTile013
+    3300148: RoofTile014
+    3300150: RoofTile015
+    3300152: RoofTile016
+    3300154: RoofTile017
+    3300156: RoofTile018
+    3300158: RoofTile019
+    3300160: RoofTile020
+    3300162: RoofTile021
+    3300164: RoofTile022
+    3300166: RoofTile023
+    3300168: RoofTile024
+    3300170: RoofTile025
+    3300172: RoofTile026
+    3300174: RoofTile027
+    3300176: RoofTile028
+    3300178: RoofTile029
+    3300180: RoofTile030
+    3300182: RoofTile031
+    3300184: RoofTile032
+    3300186: RoofTile033
+    3300188: RoofTile034
+    3300190: RoofTile035
+    3300192: RoofTile036
+    3300194: RoofTile037
+    3300196: RoofTile038
+    3300198: RoofTile039
+    3300200: RoofTile040
+    3300202: RoofTile041
+    3300204: RoofTile042
+    3300206: RoofTile043
+    3300208: RoofTile044
+    3300210: RoofTile045
+    3300212: RoofTile046
+    3300214: RoofTile047
+    3300216: RoofTile048
+    3300218: RoofTile049
+    3300220: RoofTile050
+    3300222: RoofTile051
+    3300224: RoofTile052
+    3300226: RoofTile053
+    3300228: RoofTile054
+    3300230: RoofTile055
+    3300232: RoofTile056
+    3300234: RoofTile057
+    3300236: RoofTile058
+    3300238: RootTileR
+    3300240: RootTileR001
+    3300242: RootTileR002
+    3300244: RootTileR003
+    3300246: RootTileR004
+    3300248: RootTileR005
+    3300250: RootTileR006
+    3300252: RootTileR007
+    3300254: RootTileR008
+    3300256: RootTileR009
+    3300258: RootTileR010
+    3300260: RootTileR011
+    3300262: RootTileR012
+    3300264: RootTileR013
+    3300266: RootTileR014
+    3300268: RootTileR015
+    3300270: RootTileR016
+    3300272: RootTileR017
+    3300274: RootTileR018
+    3300276: RootTileR019
+    3300278: RootTileR020
+    3300280: RootTileR021
+    3300282: RootTileR022
+    3300284: RootTileR023
+    3300286: RootTileR024
+    3300288: RootTileR025
+    3300290: RootTileR026
+    3300292: RootTileR027
+    3300294: RootTileR028
+    3300296: RootTileR029
+    3300298: RootTileR030
+    3300300: RootTileR031
+    3300302: RootTileR032
+    3300304: RootTileR033
+    3300306: RootTileR034
+    3300308: RootTileR035
+    3300310: RootTileR036
+    3300312: RootTileR037
+    3300314: RootTileR038
+    3300316: RootTileR039
+    3300318: RootTileR040
+    3300320: RootTileR041
+    3300322: RootTileR042
+    3300324: RootTileR043
+    3300326: RootTileR044
+    3300328: RootTileR045
+    3300330: RootTileR046
+    3300332: RootTileR047
+    3300334: RootTileR048
+    3300336: RootTileR049
+    3300338: RootTileR050
+    3300340: RootTileR051
+    3300342: RootTileR052
+    3300344: RootTileR053
+    3300346: RootTileR054
+    3300348: RootTileR055
+    3300350: RootTileR056
+    3300352: RootTileR057
+    3300354: RootTileR058
+    3300356: UnderBar
+    3300358: UnderStrut1
+    3300360: UnderStrut2
+    3300362: UnderStrut3
+    3300364: VBar1
+    3300366: VBar2
+    3300368: VBar3
+    3300370: Wall
+    4300000: Wall
+    4300002: VBar3
+    4300004: VBar2
+    4300006: VBar1
+    4300008: UnderStrut3
+    4300010: UnderStrut2
+    4300012: UnderStrut1
+    4300014: UnderBar
+    4300016: OverBar
+    4300018: MiddleBar
+    4300020: FenceStrutSection3
+    4300022: FenceStrutSection3
+    4300024: FenceStrutSection3
+    4300026: FenceStrutSection3
+    4300028: FenceStrutSection3
+    4300030: FenceStrutSection3
+    4300032: FenceStrutSection3
+    4300034: FenceStrutSection3
+    4300036: FenceStrutSection3
+    4300038: FenceStrutSection3
+    4300040: FenceStrutSection3
+    4300042: FenceStrutSection3
+    4300044: RoofTile058
+    4300046: RootTileR058
+    4300048: RoofTile057
+    4300050: RootTileR057
+    4300052: RoofTile056
+    4300054: RootTileR056
+    4300056: RoofTile055
+    4300058: RootTileR055
+    4300060: RoofTile054
+    4300062: RootTileR054
+    4300064: RoofTile053
+    4300066: RootTileR053
+    4300068: RoofTile052
+    4300070: RootTileR052
+    4300072: RoofTile051
+    4300074: RootTileR051
+    4300076: RoofTile050
+    4300078: RootTileR050
+    4300080: RoofTile
+    4300082: RootTileR
+    4300084: RoofTile001
+    4300086: RootTileR001
+    4300088: RoofTile002
+    4300090: RootTileR002
+    4300092: RoofTile003
+    4300094: RootTileR003
+    4300096: RoofTile004
+    4300098: RootTileR004
+    4300100: RoofTile005
+    4300102: RootTileR005
+    4300104: RoofTile006
+    4300106: RootTileR006
+    4300108: RoofTile007
+    4300110: RootTileR007
+    4300112: RoofTile008
+    4300114: RootTileR008
+    4300116: RoofTile009
+    4300118: RootTileR009
+    4300120: RoofTile010
+    4300122: RootTileR010
+    4300124: RoofTile011
+    4300126: RootTileR011
+    4300128: RoofTile012
+    4300130: RootTileR012
+    4300132: RoofTile013
+    4300134: RootTileR013
+    4300136: RoofTile014
+    4300138: RootTileR014
+    4300140: RoofTile015
+    4300142: RootTileR015
+    4300144: RoofTile016
+    4300146: RootTileR016
+    4300148: RoofTile017
+    4300150: RootTileR017
+    4300152: RoofTile018
+    4300154: RootTileR018
+    4300156: RoofTile019
+    4300158: RootTileR019
+    4300160: RoofTile020
+    4300162: RootTileR020
+    4300164: RoofTile021
+    4300166: RootTileR021
+    4300168: RoofTile022
+    4300170: RootTileR022
+    4300172: RoofTile023
+    4300174: RootTileR023
+    4300176: RoofTile024
+    4300178: RootTileR024
+    4300180: RoofTile025
+    4300182: RootTileR025
+    4300184: RoofTile026
+    4300186: RootTileR026
+    4300188: RoofTile027
+    4300190: RootTileR027
+    4300192: RoofTile028
+    4300194: RootTileR028
+    4300196: RoofTile029
+    4300198: RootTileR029
+    4300200: RoofTile030
+    4300202: RootTileR030
+    4300204: RoofTile031
+    4300206: RootTileR031
+    4300208: RoofTile032
+    4300210: RootTileR032
+    4300212: RoofTile033
+    4300214: RootTileR033
+    4300216: RoofTile034
+    4300218: RootTileR034
+    4300220: RoofTile035
+    4300222: RootTileR035
+    4300224: RoofTile036
+    4300226: RootTileR036
+    4300228: RoofTile037
+    4300230: RootTileR037
+    4300232: RoofTile038
+    4300234: RootTileR038
+    4300236: RoofTile039
+    4300238: RootTileR039
+    4300240: RoofTile040
+    4300242: RootTileR040
+    4300244: RoofTile041
+    4300246: RootTileR041
+    4300248: RoofTile042
+    4300250: RootTileR042
+    4300252: RoofTile043
+    4300254: RootTileR043
+    4300256: RoofTile044
+    4300258: RootTileR044
+    4300260: RoofTile045
+    4300262: RootTileR045
+    4300264: RoofTile046
+    4300266: RootTileR046
+    4300268: RoofTile047
+    4300270: RootTileR047
+    4300272: RoofTile048
+    4300274: RootTileR048
+    4300276: RoofTile049
+    4300278: RootTileR049
+    4300280: FenceStrutSection2
+    4300282: FenceStrutSection2
+    4300284: FenceStrutSection2
+    4300286: FenceStrutSection2
+    4300288: FenceStrutSection2
+    4300290: FenceStrutSection2
+    4300292: FenceStrutSection2
+    4300294: FenceStrutSection2
+    4300296: FenceStrutSection2
+    4300298: FenceStrutSection2
+    4300300: FenceStrutSection2
+    4300302: FenceStrutSection2
+    4300304: FenceStrutSection025
+    4300306: FenceStrutSection024
+    4300308: FenceStrutSection023
+    4300310: FenceStrutSection022
+    4300312: FenceStrutSection021
+    4300314: FenceStrutSection020
+    4300316: FenceStrutSection019
+    4300318: FenceStrutSection031
+    4300320: FenceStrutSection030
+    4300322: FenceStrutSection029
+    4300324: FenceStrutSection028
+    4300326: FenceStrutSection027
+    4300328: FenceStrutSection026
+    4300330: DiagConBar1
+    4300332: DiagConBar002
+    4300334: DiagConBar003
+    4300336: DiagConBar004
+    4300338: DiagConBar005
+    4300340: DiagConBar006
+    4300342: DiagConBar007
+    4300344: DiagOutBar001
+    4300346: DiagOutBar002
+    4300348: DiagOutBar003
+    4300350: DiagOutBar004
+    4300352: DiagOutBar005
+    4300354: DiagOutBar006
+    4300356: DiagOutBar007
+    4300358: BackVert1
+    4300360: BackVert2
+    4300362: BackVert3
+    4300364: BackVert4
+    4300366: BackVert5
+    4300368: BackVert6
+    4300370: BackVert7
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

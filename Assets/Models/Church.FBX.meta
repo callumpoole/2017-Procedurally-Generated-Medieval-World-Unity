@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 20ec38fb2ccf22e46a9e2201ba1f6baa
+timeCreated: 1493768360
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ChurchBox
+    100004: Cone001
+    100006: Cylinder001
+    100008: Doorway
+    100010: Prism001
+    100012: SlateRoof
+    100014: Tallthing
+    100016: window
+    100018: Window001
+    100020: window001
+    100022: window002
+    100024: window003
+    100026: window004
+    100028: window005
+    100030: window006
+    100032: window007
+    100034: window008
+    400000: //RootNode
+    400002: ChurchBox
+    400004: Cone001
+    400006: Cylinder001
+    400008: Doorway
+    400010: Prism001
+    400012: SlateRoof
+    400014: Tallthing
+    400016: window
+    400018: Window001
+    400020: window001
+    400022: window002
+    400024: window003
+    400026: window004
+    400028: window005
+    400030: window006
+    400032: window007
+    400034: window008
+    2300000: ChurchBox
+    2300002: Cone001
+    2300004: Cylinder001
+    2300006: Doorway
+    2300008: Prism001
+    2300010: SlateRoof
+    2300012: Tallthing
+    2300014: window
+    2300016: Window001
+    2300018: window001
+    2300020: window002
+    2300022: window003
+    2300024: window004
+    2300026: window005
+    2300028: window006
+    2300030: window007
+    2300032: window008
+    3300000: ChurchBox
+    3300002: Cone001
+    3300004: Cylinder001
+    3300006: Doorway
+    3300008: Prism001
+    3300010: SlateRoof
+    3300012: Tallthing
+    3300014: window
+    3300016: Window001
+    3300018: window001
+    3300020: window002
+    3300022: window003
+    3300024: window004
+    3300026: window005
+    3300028: window006
+    3300030: window007
+    3300032: window008
+    4300000: ChurchBox
+    4300002: Prism001
+    4300004: Tallthing
+    4300006: Doorway
+    4300008: window
+    4300010: Window001
+    4300012: Cylinder001
+    4300014: Cone001
+    4300016: window001
+    4300018: window002
+    4300020: window003
+    4300022: window004
+    4300024: window005
+    4300026: window006
+    4300028: window007
+    4300030: window008
+    4300032: SlateRoof
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

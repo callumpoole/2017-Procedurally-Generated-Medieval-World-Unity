@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 0b48a6f39de61664c867ac464b06513e
+timeCreated: 1493853843
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: FernLeaf
+    100002: FernLeaf001
+    100004: FernLeaf002
+    100006: FernLeaf003
+    100008: FernLeaf004
+    100010: FernLeaf005
+    100012: FernLeaf006
+    100014: FernLeaf007
+    100016: FernLeaf008
+    100018: FernLeaf009
+    100020: //RootNode
+    400000: FernLeaf
+    400002: FernLeaf001
+    400004: FernLeaf002
+    400006: FernLeaf003
+    400008: FernLeaf004
+    400010: FernLeaf005
+    400012: FernLeaf006
+    400014: FernLeaf007
+    400016: FernLeaf008
+    400018: FernLeaf009
+    400020: //RootNode
+    2300000: FernLeaf
+    2300002: FernLeaf001
+    2300004: FernLeaf002
+    2300006: FernLeaf003
+    2300008: FernLeaf004
+    2300010: FernLeaf005
+    2300012: FernLeaf006
+    2300014: FernLeaf007
+    2300016: FernLeaf008
+    2300018: FernLeaf009
+    3300000: FernLeaf
+    3300002: FernLeaf001
+    3300004: FernLeaf002
+    3300006: FernLeaf003
+    3300008: FernLeaf004
+    3300010: FernLeaf005
+    3300012: FernLeaf006
+    3300014: FernLeaf007
+    3300016: FernLeaf008
+    3300018: FernLeaf009
+    4300000: FernLeaf
+    4300002: FernLeaf001
+    4300004: FernLeaf002
+    4300006: FernLeaf003
+    4300008: FernLeaf004
+    4300010: FernLeaf005
+    4300012: FernLeaf006
+    4300014: FernLeaf007
+    4300016: FernLeaf008
+    4300018: FernLeaf009
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
